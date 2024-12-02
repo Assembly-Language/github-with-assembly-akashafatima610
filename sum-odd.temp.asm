@@ -2,7 +2,7 @@
 ; Reg. No.: 23-NTU-CS-1132
 ; Topic: Program to find sum of all odd values in the array
 ; ------ Program to count total odd values and displaying results
-include irvine32.inc 
+INCLUDE c:\Users\abc\.vscode\extensions\istareatscreens.masm-runner-0.4.5\native\irvine\Irvine32.inc 
 .data 
 array SWORD 17, 6, 5, 10, 20
 msg1 byte "Sum of all odd values in array is: ", 0
