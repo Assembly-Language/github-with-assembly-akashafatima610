@@ -2,7 +2,7 @@
 ; Reg. No.: 23-NTU-CS-1132
 ; Topic: Program to find sum of all positive values in the array
 ; ------ Program to count total positive values and displaying results
-include irvine32.inc 
+INCLUDE c:\Users\abc\.vscode\extensions\istareatscreens.masm-runner-0.4.5\native\irvine\Irvine32.inc 
 .data 
 array SWORD -3, 6, 1, -10, -4
 msg1 byte "Sum of all positive values in array is: ", 0
