@@ -24,3 +24,5 @@ The working of each instruction is specified in the form of "Comments".
 
 
 Overall remarks
+
+Status completed of "All Tasks"
